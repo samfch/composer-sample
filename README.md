@@ -2,7 +2,7 @@
 - Download or clone
 - cd to project
 ```bash
-cd composer-sampe
+cd composer-sample
 ```
 - then run:
 ```bash

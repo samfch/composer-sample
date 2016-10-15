@@ -1,0 +1,9 @@
+{
+    "name": "samfch/composer-sample-app",
+    "description": "Contoh penggunaan Composer pada aplikasi PHP",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "phpseclib/phpseclib": "^2.0"
+    }
+}
